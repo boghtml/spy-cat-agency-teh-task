@@ -1,11 +1,11 @@
 
 <h1>Spy Cat Agency API</h1>
-
 <p>
   This is a Django REST API project for managing spy cats, missions, and targets.
   The project demonstrates CRUD operations, integration with an external API (<em>TheCatAPI</em>), 
   and usage of Django Rest Framework (DRF). It also includes business logic such as 
-  mission completion rules, assignment constraints, and more.
+  mission completion rules, assignment constraints, and more. <a href="https://develops.notion.site/Python-engineer-test-assessment-the-Spy-Cat-Agency-1220fe54b07b80e78dd3c411e1309210#03da2017db7e40688d00bbf0e3dee8a2" target="_blank">
+    Task link</a>.
 </p>
 
 <hr>
