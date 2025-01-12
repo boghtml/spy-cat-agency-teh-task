@@ -225,6 +225,8 @@ python manage.py migrate
     Spy Cat Agency - Postman Collection
   </a>.
 </p>
+![image](https://github.com/user-attachments/assets/d7afe29a-28c0-4dfa-b2a4-6f099079a17e)
+
 <p>
   This collection contains sample requests for:
   <ul>
