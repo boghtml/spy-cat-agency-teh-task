@@ -1,11 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <meta charset="utf-8" />
-    <title>Spy Cat Agency Project - README</title>
-</head>
-<body>
-
 <h1>Spy Cat Agency API</h1>
 
 <p>
