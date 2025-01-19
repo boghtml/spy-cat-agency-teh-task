@@ -42,7 +42,7 @@ drf-yasg==1.21.5
 <ol>
   <li><strong>Clone the repository from GitHub</strong>.
     <br />
-    <code>git clone https://github.com/your-username/spy-cat-agency.git</code>
+    <code>git clone https://github.com/boghtml/spy-cat-agency.git</code>
   </li>
   <li><strong>Create a virtual environment</strong> (optional but recommended):
     <pre><code>python -m venv venv
